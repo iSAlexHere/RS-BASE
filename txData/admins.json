@@ -1,0 +1,21 @@
+[
+  {
+    "name": "iSAlexHere",
+    "master": true,
+    "password_hash": "$2a$11$xTop.ogiqYOZ0/vomuEOSeuBnqHKRa453snGKe2.i2xlJN2rBFx7q",
+    "providers": {
+      "citizenfx": {
+        "id": "iSAlexHere",
+        "identifier": "fivem:105419",
+        "data": {
+          "sub": "3a0ce67b12c52bc928e240de1906797f",
+          "nameid": "https://forum.cfx.re/internal/user/105419",
+          "name": "iSAlexHere",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/isalexhere/256/193758_2.png",
+          "profile": "https://forum.cfx.re/u/iSAlexHere"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

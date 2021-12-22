@@ -1,0 +1,21 @@
+
+================================================================
+======== txAdmin Starting - 22/12/2021 1:15:39                  
+================================================================
+[01:16:00] [iSAlexHere] created admins file
+[01:16:56] [iSAlexHere] Changing global settings via setup stepper and started Deployer.
+[01:17:35] [iSAlexHere] Changing global settings via setup stepper and started Deployer.
+[01:17:43] [iSAlexHere] Setting recipe.
+[01:18:11] [iSAlexHere] Running recipe.
+[01:27:40] [iSAlexHere] Configured server.cfg from deployer.
+[01:27:40] [iSAlexHere] Completed and committed server deploy.
+[01:28:59] [iSAlexHere] Changing global settings.
+[01:29:12] [iSAlexHere] Changing fxRunner settings.
+[01:36:16] [iSAlexHere] RESTART SERVER
+[01:37:43] [iSAlexHere] STOP SERVER
+[01:38:02] [iSAlexHere] START SERVER
+[01:39:12] [iSAlexHere] logged in via in-game ui
+[01:41:26] [iSAlexHere] RESTART SERVER
+[01:42:05] [iSAlexHere] logged in via in-game ui
+[01:46:18] [iSAlexHere] RESTART SERVER
+[01:47:01] [iSAlexHere] logged in via in-game ui
